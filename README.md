@@ -37,3 +37,6 @@ contract AddressToUrl {
 
 ## Compiler version
 v0.2.0-2016-01-24-194679f via https://chriseth.github.io/browser-solidity/
+
+## See also
+* [AddressToIP](http://consensys.github.io/addresstoip/) - mapping Ethereum addresses to IP addresses
